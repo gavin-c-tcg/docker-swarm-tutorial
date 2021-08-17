@@ -2,6 +2,8 @@
 
 Docker Swarm 基本教學 - 從無到有 Docker-Swarm-Beginners-Guide📝
 
+* [Youtube Tutorial PART 1 - Docker Swarm 演講](https://youtu.be/rh8hpbvN_l0)
+
 * [Youtube Tutorial PART 1 - Docker Machine 介紹](https://youtu.be/RSXlK0U-2Bo)
 * [Youtube Tutorial PART 2 - Docker Swarm 簡介](https://youtu.be/ir0ApK1rfA4)
 * [Youtube Tutorial PART 3 - Docker Swarm 建立 - 基礎篇](https://youtu.be/q2V3ZT5NdNo)
